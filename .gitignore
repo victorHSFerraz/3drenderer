@@ -1,0 +1,21 @@
+# Compiled object files
+*.o
+
+# Executables
+a.out
+
+# Compiled dynamic libraries
+*.so
+
+# Compiled static libraries
+*.a
+
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+.vs/
+
+# Build output directory
+build/
