@@ -14,7 +14,7 @@ extern int window_width;
 extern int window_height;
 
 bool initialize_window(void);
-void draw_grid(int grid_size);
+void draw_grid(void);
 void draw_pixel(int x, int y, uint32_t color);
 void draw_rect(int setY, int setX, int width, int height, uint32_t color);
 void render_color_buffer();
