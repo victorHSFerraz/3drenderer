@@ -12,6 +12,8 @@ a.out
 
 *.exe
 
+renderer.*
+
 # IDE files
 .vscode/
 .idea/
